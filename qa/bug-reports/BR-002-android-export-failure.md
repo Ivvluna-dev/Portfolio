@@ -79,3 +79,13 @@ The APK export completed successfully and the application launched correctly on 
 * Software Testing
 * Technical Research
 * Problem Solving
+
+* ## Personal Reflection
+
+This issue took nearly a full day to identify.
+
+Initially, I focused on the application code and export configuration because those seemed to be the most likely causes.
+
+After taking a break and revisiting the problem with a fresh perspective, I continued researching the issue and eventually identified the root cause.
+
+This experience reinforced the importance of systematic troubleshooting and avoiding assumptions during technical investigations.
